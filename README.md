@@ -72,6 +72,7 @@ S : 프로세스의 상태 [S(sleeping), R(running), W(swapped out process), Z(z
 
 COMMAND : 실행된 명령어
 
+---
 
 __ps__
 
@@ -93,3 +94,6 @@ __ps__
 
 
 pid, cmd 등 기본적인 내용만 출력된다. 옵션 없이는 잘 사용하지 않는다.
+
+---
+
