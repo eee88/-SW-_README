@@ -91,3 +91,5 @@ __ps__
 
 ![linux_ps](https://user-images.githubusercontent.com/102000890/172053999-88c7edba-682f-42ab-bb43-1644111546b3.png)
 
+
+pid, cmd 등 기본적인 내용만 출력된다. 옵션 없이는 잘 사용하지 않는다.
