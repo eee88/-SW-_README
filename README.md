@@ -87,3 +87,7 @@ __ps__
 |-l|긴 포맷으로 보여준다|
 |p, -p|특정 PID의 프로세스를 보여준다|
 |-u|특정 사용자의 프로세스를 보여준다|
+
+
+![linux_ps](https://user-images.githubusercontent.com/102000890/172053999-88c7edba-682f-42ab-bb43-1644111546b3.png)
+
