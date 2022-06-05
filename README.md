@@ -34,3 +34,8 @@ __top__
 ![linux_top](https://user-images.githubusercontent.com/102000890/172051703-09952ee2-2a7c-410b-b8ea-ab402ea7179a.png)
 
 
+21:59:40 : 현재 서버의 시간
+10:59 : uptime(켜져 있는 시간)
+0 users : 유저
+load average : 현재 시스템이 얼마나 일을 하고 있는지 1분, 5분, 15분 단위로 실행/대기 중인 프로세스 수를 나타내고 있음
+Tasks : 프로세스 개수
