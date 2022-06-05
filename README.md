@@ -122,3 +122,23 @@ __jobs___
 |Stopped (SIGSTOP)|SIGSTOP 신호가 일시 중단했음을 뜻한다|
 |Stopped (SIGTTIN)|SIGTTIN 신호가 작업을 일시 중단했음을 뜻한다|
 |Stopped (SIGTTOU)|SIGTTOU 신호가 작업을 일시 중단했음을 뜻한다|
+
+---
+
+__kill__
+
+|Linux 명령어|설명|
+|:---:|:---:|
+|kill|프로세스에 시그널을 보내 원하는 작업을 하게 하는 명령어|
+
+
+|kill 옵션|설명|
+|:---:|---|
+|SIGHUP(HUP)|hang up의 약자. 프로세스를 재시작시키는 시그널|
+|SIGINT(INT)|인터럽트. 실행을 중지시킨다|
+|SIGQUIT(QUIT)|키보드의 종료|
+|SIGKILL(KILL)|무조건 종료. 강제종료시키는 시그널|
+|SIGTERM(TERM)|Terminate의 약자로 가능한 정상 종료시키는 시그널|
+|CONT|Continue. STOP 등에 의해 정지된 프로세스를 다시 실행|
+|STOP|무조건적, 즉각적 정지|
+|TSTP|실행 정지 후 다시 실행을 계속하기 위하여 대기시키는 시그널|
