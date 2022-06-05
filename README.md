@@ -7,7 +7,7 @@ __top__
 |top|시스템의 상태를 전반적으로 가장 빠르게 파악 가능(CPU, Memory, Process)|
 
 
-|top |설명|
+|top 옵션|설명|
 |:---:|---|
 |shift + p|CPU 사용률 내림차순|
 |shit + m|메모리 사용률 내림차순|
