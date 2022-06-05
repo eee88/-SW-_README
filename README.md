@@ -162,3 +162,10 @@ vim의 중립모드에서 q를 누른 다음 매크로 이름으로 사용할 �
 중립모드에서 @a 라고 누르면 매크로 a가 재생된다.
 
 @@를 누르면 제일 마지막에 재생된 매크로가 실행된다.
+
+---
+
+__참고__
+<https://jang8584.tistory.com/198>
+<https://arer.tistory.com/150>
+<https://taisou.tistory.com/465>
