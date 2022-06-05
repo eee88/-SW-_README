@@ -165,7 +165,9 @@ vim의 중립모드에서 q를 누른 다음 매크로 이름으로 사용할 �
 
 ---
 
-__참고__
+__참고 문헌__
 <https://jang8584.tistory.com/198>
+
 <https://arer.tistory.com/150>
+
 <https://taisou.tistory.com/465>
