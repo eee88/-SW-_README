@@ -1,6 +1,6 @@
 # git_README
 
-##### top
+__top__
 
 |Linux 명령어|설명|
 |:---:|:---:|
@@ -32,4 +32,5 @@
 
 
 ![linux_top](https://user-images.githubusercontent.com/102000890/172051703-09952ee2-2a7c-410b-b8ea-ab402ea7179a.png)
+
 
