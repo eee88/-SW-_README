@@ -34,6 +34,8 @@ __top__
 ![linux_top](https://user-images.githubusercontent.com/102000890/172051703-09952ee2-2a7c-410b-b8ea-ab402ea7179a.png)
 
 
+##### 설명
+
 21:59:40 : 현재 서버의 시간
 
 10:59 : uptime(켜져 있는 시간)
@@ -44,3 +46,27 @@ load average : 현재 시스템이 얼마나 일을 하고 있는지 1분, 5분,
 
 Tasks : 프로세스 개수
 
+
+##### 프로세스 상태 정보
+
+PID : 프로세스 ID (PID)
+
+USER : 프로세스를 실행시킨 사용자 ID
+
+PRI : 프로세스의 우선순위 (priority)
+
+NI : NICE 값. 일의 nice value값이다. 마이너스를 가지는 nice value는 우선순위가 높음.
+
+VIRT : 가상 메모리의 사용량(SWAP + RES)
+
+RES : 현재 페이지가 상주하고 있는 크기(Resident Size)
+
+SHR : 분할된 페이지, 프로세스에 의해 사용된 메모리를 나눈 메모리의 총합.
+
+S : 프로세스의 상태 [S(sleeping), R(running), W(swapped out process), Z(zombies)]
+
+%CPU : 프로세스가 사용하는 CPU의 사용율
+
+%MEM : 프로세스가 사용하는 메모리의 사용율
+
+COMMAND : 실행된 명령어
