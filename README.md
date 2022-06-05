@@ -71,3 +71,10 @@ S : 프로세스의 상태 [S(sleeping), R(running), W(swapped out process), Z(z
 %MEM : 프로세스가 사용하는 메모리의 사용율
 
 COMMAND : 실행된 명령어
+
+
+__ps__
+
+|Linux 명령어|설명|
+|:---:|:---:|
+|ps|현재중인 프로세스의 목록을 보는 명령어|
