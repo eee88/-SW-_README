@@ -29,3 +29,7 @@
 |-u|지정된 유효 사용자에 의한 프로세스만 보여줌|
 |-U|지정된 사용자에 의한 프로세스만 보여줌. 사용자는 실제, 유효한, 저장된 및 파일시스템 UID를 의미|
 |-v|프로그램 라이브러리 버전을 출력|
+
+
+![linux_top](https://user-images.githubusercontent.com/102000890/172051703-09952ee2-2a7c-410b-b8ea-ab402ea7179a.png)
+<img src="https://user-images.githubusercontent.com/102000890/172051703-09952ee2-2a7c-410b-b8ea-ab402ea7179a.png" width="360" height="180">
